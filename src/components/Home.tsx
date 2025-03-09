@@ -1,4 +1,3 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { TowerControl as GameController, Code, Monitor, Mail, Github, Linkedin, Gamepad2, Coffee, Brain, Trophy, Users, Rocket, ChevronRight } from 'lucide-react';
